@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I am a front-end developer with some experience in back-end development and also cyber security.
+I am a front-end developer with some experience in back-end development as well as cyber security. Hoping to be a Fullstack developer in the future.
 
 * 🌍  I'm based in Australia
 * ✉️  You can contact me at [altonliew25@yahoo.com](mailto:altonliew25@yahoo.com)
