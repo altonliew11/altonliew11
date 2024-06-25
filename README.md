@@ -8,7 +8,7 @@ I am a front-end developer with some experience in back-end development as well 
 
 * 🌍  I'm based in Australia
 * ✉️  You can contact me at [altonliew25@yahoo.com](mailto:altonliew25@yahoo.com)
-* 🚀  I'm currently working on [Naas.ai](http://naas.ai/)
+* 🚀  Former intern @ [Naas.ai](http://naas.ai/)
 * 🧠  I'm learning JavaScript, React.js, Node.js, Redux Toolkit
 
 ### Skills
